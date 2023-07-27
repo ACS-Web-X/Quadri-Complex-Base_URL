@@ -1,0 +1,7 @@
+<x>
+LOOP: ITERATION = 4;
+SOURCE: /ACS302/Base_URL/8;
+DECLARE: sCALL1;
+DEFINE: @?((AL-R);(!RP-Q);(!QP-!QQ);(!QQP-OM));
+Base_URL = 128+/-@A1+@F4+@A4-@B6-;
+</x>
